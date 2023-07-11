@@ -1,0 +1,302 @@
+{
+	"swagger": "2.0",
+	"info": {
+		"description": "Describes Univ of Wisconsin's Finance API for WorkDay integrations",
+		"version": "1.0.0",
+		"title": "FinanceAPI_Combined",
+		"termsOfService": null,
+		"contact": null,
+		"license": null
+	},
+	"host": "api.wisc.edu",
+	"basePath": "/finance",
+	"schemes": [
+		"https"
+	],
+	"paths": {
+		"/validate-funding": {
+			"post": {
+				"tags": [
+					"validate-funding"
+				],
+				"summary": null,
+				"description": null,
+				"operationId": "validate-funding",
+				"produces": [
+					"application/vnd.api+json"
+				],
+				"consumes": [
+					"application/vnd.api+json"
+				],
+				"parameters": [
+					{
+						"name": "body",
+						"in": "body",
+						"description": null,
+						"required": false,
+						"schema": {
+							"$ref": "#/definitions/validate-funding_Request##body"
+						}
+					}
+				],
+				"responses": {
+					"200": {
+						"description": "successful operation",
+						"schema": {
+							"$ref": "#/definitions/validate-funding"
+						}
+					}
+				}
+			}
+		},
+		"/costCenters": {
+			"get": {
+				"tags": [
+					"costCenters"
+				],
+				"summary": "List of CostCenters",
+				"description": "List of CostCenters",
+				"operationId": "get costCenters",
+				"produces": [
+					"application/json"
+				],
+				"consumes": [
+					"application/json"
+				],
+				"parameters": [
+					{  
+					  "name":"page%5BNumber%5D",
+					  "in":"query",
+					  "description":"Paging parameter",
+					  "required":false,
+					  "type":"integer"
+				   }
+				],
+				"responses": {
+					"200": {
+						"description": "successful operation",
+						"schema": {
+							"$ref": "#/definitions/costCenters"
+						}
+					}
+				}
+			}
+		}
+	},
+	"definitions": {
+		"validate-funding##data##attributes##lines": {
+			"properties": {
+				"errors": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					}
+				},
+				"valid": {
+					"type": "boolean"
+				}
+			}
+		},
+		"validate-funding##data##attributes": {
+			"properties": {
+				"journalErrors": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					}
+				},
+				"lines": {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/validate-funding##data##attributes##lines"
+					}
+				},
+				"valid": {
+					"type": "boolean"
+				}
+			}
+		},
+		"validate-funding##data": {
+			"properties": {
+				"attributes": {
+					"$ref": "#/definitions/validate-funding##data##attributes"
+				},
+				"id": {
+					"type": "string"
+				},
+				"type": {
+					"type": "string"
+				}
+			}
+		},
+		"validate-funding": {
+			"properties": {
+				"data": {
+					"$ref": "#/definitions/validate-funding##data"
+				}
+			}
+		},
+		"validate-funding_Request##body##data##attributes##lines": {
+			"properties": {
+				"lineId": {
+					"type": "string"
+				},
+				"costCenter": {
+					"type": "string"
+				},
+				"fund": {
+					"type": "string"
+				},
+				"functionId": {
+					"type": "string"
+				},
+				"ledgerAccount": {
+					"type": "string"
+				},
+				"projectType": {
+					"type": "string"
+				},
+				"project": {
+					"type": "string"
+				},
+				"program": {
+					"type": "string"
+				},
+				"spendCategory": {
+					"type": "string"
+				}
+			}
+		},
+		"validate-funding_Request##body##data##attributes": {
+			"properties": {
+				"company": {
+					"type": "string"
+				},
+				"accountingDate": {
+					"type": "string"
+				},
+				"ledger": {
+					"type": "string"
+				},
+				"lines": {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/validate-funding_Request##body##data##attributes##lines"
+					}
+				}
+			}
+		},
+		"validate-funding_Request##body##data": {
+			"properties": {
+				"type": {
+					"type": "string"
+				},
+				"attributes": {
+					"$ref": "#/definitions/validate-funding_Request##body##data##attributes"
+				}
+			}
+		},
+		"validate-funding_Request##body": {
+			"properties": {
+				"data": {
+					"$ref": "#/definitions/validate-funding_Request##body##data"
+				}
+			}
+		},
+		"validate-funding_Request": {
+			"properties": {
+				"body": {
+					"$ref": "#/definitions/validate-funding_Request##body"
+				}
+			}
+		},
+		"costCenters##data##attributes": {
+			"properties": {
+				"active": {
+					"type": "boolean"
+				},
+				"name": {
+					"type": "string"
+				}
+			}
+		},
+		"costCenters##data##links": {
+			"properties": {
+				"self": {
+					"type": "string"
+				}
+			}
+		},
+		"costCenters##data": {
+			"properties": {
+				"attributes": {
+					"$ref": "#/definitions/costCenters##data##attributes"
+				},
+				"id": {
+					"type": "string"
+				},
+				"links": {
+					"$ref": "#/definitions/costCenters##data##links"
+				},
+				"type": {
+					"type": "string"
+				}
+			}
+		},
+		"costCenters##links": {
+			"properties": {
+				"first": {
+					"type": "string"
+				},
+				"last": {
+					"type": "string"
+				},
+				"next": {
+					"type": "string"
+				},
+				"prev": {
+					"type": "string"
+				},
+				"self": {
+					"type": "string"
+				}
+			}
+		},
+		"costCenters##meta": {
+			"properties": {
+				"pageNumber": {
+					"type": "number",
+					"format": "int32"
+				},
+				"pageSize": {
+					"type": "number",
+					"format": "int32"
+				},
+				"totalCount": {
+					"type": "number",
+					"format": "int32"
+				},
+				"totalPages": {
+					"type": "number",
+					"format": "int32"
+				}
+			}
+		},
+		"costCenters": {
+			"properties": {
+				"data": {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/costCenters##data"
+					}
+				},
+				"links": {
+					"$ref": "#/definitions/costCenters##links"
+				},
+				"meta": {
+					"$ref": "#/definitions/costCenters##meta"
+				}
+			}
+		}
+	}
+}
