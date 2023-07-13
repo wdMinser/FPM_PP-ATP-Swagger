@@ -1,1 +1,8 @@
-Request Body
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tim="TimeTracking.External.AssetWorks.Service.Trades.Contract">
+   			<soapenv:Header/>
+			   <soapenv:Body>
+			      <tim:TimeSheetDayApprovedTimeGetList>	
+			  		<tim:Days>30</tim:Days>	
+			      </tim:TimeSheetDayApprovedTimeGetList>
+			   </soapenv:Body>
+		  </soapenv:Envelope>;
