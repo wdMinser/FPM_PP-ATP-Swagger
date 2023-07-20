@@ -1,1 +1,3 @@
-Header CSV
+SOAPAction,TimeTracking.External.AssetWorks.Service.Trades.Contract/ITradesDataGet/TimeSheetDayApprovedTimeGetList
+Accept-Encoding,gzip,deflate
+Content-Type,text/xml;charset=UTF-8
