@@ -58,12 +58,12 @@
 				"description": "List of CostCenters",
 				"operationId": "get costCenters",
 				"produces": [
-					"application/vnd.api+json"
+					"application/json"
 				],
 				"consumes": [
-					"application/vnd.api+json"
+					"application/json"
 				],
-				"parameters": [],
+				"parameters": [ ],
 				"responses": {
 					"200": {
 						"description": "successful operation",
