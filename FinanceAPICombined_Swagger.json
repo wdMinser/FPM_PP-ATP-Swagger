@@ -49,7 +49,7 @@
 				}
 			}
 		},
-		"/costCenters": {
+		"/costCenters?filter[company]={company}": {
 			"get": {
 				"tags": [
 					"costCenters"
@@ -63,7 +63,15 @@
 				"consumes": [
 					"application/json"
 				],
-				"parameters": [ ],
+				"parameters": [ 
+					{
+						"in": "path",
+						"name": "company",
+						"required": "false",
+						"description": "Five-character institution identifier, or comma separated list of",
+						"schema": {"type":"string"}
+					}
+				],
 				"responses": {
 					"200": {
 						"description": "successful operation",
