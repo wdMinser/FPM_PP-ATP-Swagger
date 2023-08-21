@@ -63,29 +63,7 @@
 				"consumes": [
 					"application/vnd.api+json"
 				],
-				"parameters": [
-					{  
-					  "name":"page[number]",
-					  "in":"query",
-					  "description":"Paging parameter",
-					  "required":false,
-					  "type":"integer"
-				   },
-				   {  
-					  "name":"page[size]",
-					  "in":"query",
-					  "description":"Paging parameter",
-					  "required":false,
-					  "type":"integer"
-				   },
-				   {  
-					  "name":"filter[company]",
-					  "in":"query",
-					  "description":"Paging parameter",
-					  "required":false,
-					  "type":"string"
-				   }
-				],
+				"parameters": [],
 				"responses": {
 					"200": {
 						"description": "successful operation",
