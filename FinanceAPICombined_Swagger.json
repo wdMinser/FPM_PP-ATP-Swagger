@@ -49,7 +49,7 @@
 				}
 			}
 		},
-	   "/costCenters/filter[company]=UWMSN" : {
+	   "/costCenters/filter%5Bcompany%5D=UWMSN" : {
 		  "get" : {
 			"tags" : [ "getcostcenter" ],
 			"summary" : null,
