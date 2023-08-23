@@ -56,14 +56,14 @@
 				],
 				"summary": "List of CostCenters",
 				"description": "List of CostCenters",
-				"operationId": "get costCenters",
+				"operationId": "get-costCenters",
 				"produces": [
 					"application/json"
 				],
 				"consumes": [
 					"application/json"
 				],
-				"parameters": [ ],
+				"parameters": [],
 				"responses": {
 					"200": {
 						"description": "successful operation",
