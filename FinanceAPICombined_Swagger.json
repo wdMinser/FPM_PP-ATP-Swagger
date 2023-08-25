@@ -57,7 +57,15 @@
 			"operationId" : "getcostcenter",
 			"produces" : [ "application/json" ],
 			"consumes" : [ "application/json" ],
-			"parameters" : [ ],
+			"parameters" : [ 
+				{
+					"name": "page[number]",
+					"in": "query",
+					"description": null,
+					"required": false,
+					"type": "integer"
+				}
+			],
 			"responses" : {
 			  "200" : {
 				"description" : "successful operation",
