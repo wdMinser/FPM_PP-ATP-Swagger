@@ -59,7 +59,7 @@
 			"consumes" : [ "application/json" ],
 			"parameters" : [ 
 				{
-					"name": "page[number]",
+					"name": "page%5Bnumber%5D",
 					"in": "query",
 					"description": null,
 					"required": false,
