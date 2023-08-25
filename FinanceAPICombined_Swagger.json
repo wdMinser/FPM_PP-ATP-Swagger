@@ -59,11 +59,19 @@
 			"consumes" : [ "application/json" ],
 			"parameters" : [ 
 				{
-					"name": "page%5Bnumber%5D",
+					"name": "page",
 					"in": "query",
 					"description": null,
 					"required": false,
-					"type": "integer"
+					"schema": {
+						"type": "object",
+						"properties" : [
+							{	"number": {
+								"type" : "integer" 
+							}
+						}
+						]
+					}
 				}
 			],
 			"responses" : {
