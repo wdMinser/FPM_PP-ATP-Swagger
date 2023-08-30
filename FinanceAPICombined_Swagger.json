@@ -219,8 +219,7 @@
     "getcostcenter##data##meta" : {
       "properties" : {
         "dttm_loaded" : {
-          "type" : "string",
-		  "format" : "date-time"
+          "type" : "string"
         }
       }
     },
