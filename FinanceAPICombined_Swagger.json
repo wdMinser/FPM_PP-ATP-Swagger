@@ -220,7 +220,7 @@
       "properties" : {
         "dttm_loaded" : {
           "type" : "string",
-		  "format": "date-time"
+		  "format" : "date-time"
         }
       }
     },
