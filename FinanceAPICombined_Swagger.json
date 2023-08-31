@@ -199,7 +199,7 @@
     "getcostcenter##data##attributes" : {
       "properties" : {
         "active" : {
-          "type" : "number"
+          "type" : "boolean"
         },
         "company" : {
           "type" : "string"
@@ -218,7 +218,7 @@
     },
     "getcostcenter##data##meta" : {
       "properties" : {
-        "dttm_loaded" : {
+        "dttmLoaded" : {
           "type" : "string"
         }
       }
