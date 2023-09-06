@@ -29,6 +29,21 @@
 					"application/vnd.api+json"
 				],
 				"parameters": [
+					{
+						"name": "body",
+						"in": "body",
+						"description": null,
+						"required": false,
+						"schema": {
+							"$ref": "#/definitions/validate-funding_Request##body"
+						}
+					},
+					{
+						"name": "page[number]",
+						"in": "query",
+						"description": null,
+						"required": false
+					}
 				],
 				"responses": {
 					"200": {
