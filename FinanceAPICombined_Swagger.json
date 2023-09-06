@@ -29,12 +29,6 @@
 					"application/vnd.api+json"
 				],
 				"parameters": [
-					{
-						"name": "page[number]",
-						"in": "query",
-						"description": null,
-						"required": false
-					}
 				],
 				"responses": {
 					"200": {
