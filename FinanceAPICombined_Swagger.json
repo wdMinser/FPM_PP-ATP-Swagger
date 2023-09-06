@@ -30,22 +30,11 @@
 				],
 				"parameters": [
 					{
-						"name": "body",
-						"in": "body",
-						"description": null,
-						"required": false,
-						"schema": {
-							"$ref": "#/definitions/validate-funding_Request##body"
-						}
-					},
-					
-					{
 						"name": "page[number]",
 						"in": "query",
 						"description": null,
 						"required": false
 					}
-					
 				],
 				"responses": {
 					"200": {
@@ -57,31 +46,37 @@
 				}
 			}
 		},
-	   "/costCenters" : {
-		  "get" : {
-			"tags" : [ "getcostcenter" ],
-			"summary" : null,
-			"description" : null,
-			"operationId" : "getcostcenter",
-			"produces" : [ "application/json" ],
-			"consumes" : [ "application/json" ],
-			"parameters" : [ 
-			{
+		"/costCenters": {
+			"get": {
+				"tags": [
+					"getcostcenter"
+				],
+				"summary": null,
+				"description": null,
+				"operationId": "getcostcenter",
+				"produces": [
+					"application/json"
+				],
+				"consumes": [
+					"application/json"
+				],
+				"parameters": [
+					{
 						"name": "page[number]",
 						"in": "query",
 						"description": null,
 						"required": false
 					}
-			],
-			"responses" : {
-			  "200" : {
-				"description" : "successful operation",
-				"schema" : {
-				  "$ref" : "#/definitions/getcostcenter"
+				],
+				"responses": {
+					"200": {
+						"description": "successful operation",
+						"schema": {
+							"$ref": "#/definitions/getcostcenter"
+						}
+					}
 				}
-			  }
 			}
-		  }
 		}
 	},
 	"definitions": {
@@ -211,106 +206,106 @@
 				}
 			}
 		},
-    "getcostcenter##data##attributes" : {
-      "properties" : {
-        "active" : {
-          "type" : "boolean"
-        },
-        "company" : {
-          "type" : "string"
-        },
-        "name" : {
-          "type" : "string"
-        }
-      }
-    },
-    "getcostcenter##data##links" : {
-      "properties" : {
-        "self" : {
-          "type" : "string"
-        }
-      }
-    },
-    "getcostcenter##data##meta" : {
-      "properties" : {
-        "dttmLoaded" : {
-          "type" : "string"
-        }
-      }
-    },
-    "getcostcenter##data" : {
-      "properties" : {
-        "attributes" : {
-          "$ref" : "#/definitions/getcostcenter##data##attributes"
-        },
-        "id" : {
-          "type" : "string"
-        },
-        "links" : {
-          "$ref" : "#/definitions/getcostcenter##data##links"
-        },
-        "meta" : {
-          "$ref" : "#/definitions/getcostcenter##data##meta"
-        },
-        "type" : {
-          "type" : "string"
-        }
-      }
-    },
-    "getcostcenter##links" : {
-      "properties" : {
-        "first" : {
-          "type" : "string"
-        },
-        "last" : {
-          "type" : "string"
-        },
-        "next" : {
-          "type" : "string"
-        },
-        "prev" : {
-          "type" : "string"
-        },
-        "self" : {
-          "type" : "string"
-        }
-      }
-    },
-    "getcostcenter##meta" : {
-      "properties" : {
-        "pageNumber" : {
-          "type" : "number",
-          "format" : "int32"
-        },
-        "pageSize" : {
-          "type" : "number",
-          "format" : "int32"
-        },
-        "totalCount" : {
-          "type" : "number",
-          "format" : "int32"
-        },
-        "totalPages" : {
-          "type" : "number",
-          "format" : "int32"
-        }
-      }
-    },
-    "getcostcenter" : {
-      "properties" : {
-        "data" : {
-          "type" : "array",
-          "items" : {
-            "$ref" : "#/definitions/getcostcenter##data"
-          }
-        },
-        "links" : {
-          "$ref" : "#/definitions/getcostcenter##links"
-        },
-        "meta" : {
-          "$ref" : "#/definitions/getcostcenter##meta"
-        }
-      }
-    }
+		"getcostcenter##data##attributes": {
+			"properties": {
+				"active": {
+					"type": "boolean"
+				},
+				"company": {
+					"type": "string"
+				},
+				"name": {
+					"type": "string"
+				}
+			}
+		},
+		"getcostcenter##data##links": {
+			"properties": {
+				"self": {
+					"type": "string"
+				}
+			}
+		},
+		"getcostcenter##data##meta": {
+			"properties": {
+				"dttmLoaded": {
+					"type": "string"
+				}
+			}
+		},
+		"getcostcenter##data": {
+			"properties": {
+				"attributes": {
+					"$ref": "#/definitions/getcostcenter##data##attributes"
+				},
+				"id": {
+					"type": "string"
+				},
+				"links": {
+					"$ref": "#/definitions/getcostcenter##data##links"
+				},
+				"meta": {
+					"$ref": "#/definitions/getcostcenter##data##meta"
+				},
+				"type": {
+					"type": "string"
+				}
+			}
+		},
+		"getcostcenter##links": {
+			"properties": {
+				"first": {
+					"type": "string"
+				},
+				"last": {
+					"type": "string"
+				},
+				"next": {
+					"type": "string"
+				},
+				"prev": {
+					"type": "string"
+				},
+				"self": {
+					"type": "string"
+				}
+			}
+		},
+		"getcostcenter##meta": {
+			"properties": {
+				"pageNumber": {
+					"type": "number",
+					"format": "int32"
+				},
+				"pageSize": {
+					"type": "number",
+					"format": "int32"
+				},
+				"totalCount": {
+					"type": "number",
+					"format": "int32"
+				},
+				"totalPages": {
+					"type": "number",
+					"format": "int32"
+				}
+			}
+		},
+		"getcostcenter": {
+			"properties": {
+				"data": {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/getcostcenter##data"
+					}
+				},
+				"links": {
+					"$ref": "#/definitions/getcostcenter##links"
+				},
+				"meta": {
+					"$ref": "#/definitions/getcostcenter##meta"
+				}
+			}
+		}
 	}
 }
