@@ -65,7 +65,7 @@
 				],
 				"parameters": [
 					{  
-					  "name":"page%5BNumber%5D",
+					  "name":"page",
 					  "in":"query",
 					  "description":"Paging parameter",
 					  "required":false,
