@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report_Data xmlns:functx="http://www.functx.com"
+             xmlns:wd="urn:com.workday.report/CR_INT173_AssetWorks_FPM_Time_and_Leave">
+   <Report_Entry>
+      <wd:Employee_ID>00882058</wd:Employee_ID>
+      <wd:Worker>Douglas Louis</wd:Worker>
+      <wd:Reported_Date>2024-04-17</wd:Reported_Date>
+      <wd:Position_TO>P00034148 Facilities Technician II</wd:Position_TO>
+      <Reported_TimeEntry>0</Reported_TimeEntry>
+      <Reported_TimeOff>8</Reported_TimeOff>
+   </Report_Entry>
+   <Report_Entry>
+      <wd:Employee_ID>00060403</wd:Employee_ID>
+      <wd:Worker>Joseph Toney</wd:Worker>
+      <wd:Reported_Date>2024-04-01</wd:Reported_Date>
+      <wd:Position_TE>P00001596 Heat/Cool Plant Operator II</wd:Position_TE>
+      <Reported_TimeEntry>8</Reported_TimeEntry>
+      <Reported_TimeOff>0</Reported_TimeOff>
+   </Report_Entry>
+</Report_Data>
