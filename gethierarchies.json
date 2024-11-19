@@ -1,0 +1,272 @@
+{
+	"swagger": "2.0",
+	"info": {
+		"description": null,
+		"version": "1.0.0",
+		"title": null,
+		"termsOfService": null,
+		"contact": null,
+		"license": null
+	},
+	"host": "api.wisc.edu",
+	"basePath": "/finance",
+	"schemes": [
+		"https"
+	],
+	"paths": {
+		"/hierarchies": {
+			"get": {
+				"tags": [
+					"gethierarchies"
+				],
+				"summary": null,
+				"description": null,
+				"operationId": "gethierarchies",
+				"produces": [
+					"application/json"
+				],
+				"consumes": [
+					"application/json"
+				],
+				"parameters": [],
+				"responses": {
+					"200": {
+						"description": "successful operation",
+						"schema": {
+							"$ref": "#/definitions/gethierarchies"
+						}
+					}
+				}
+			}
+		},
+		"/costCenters": {
+			"get": {
+				"tags": [
+					"getcostcenter"
+				],
+				"summary": null,
+				"description": null,
+				"operationId": "getcostcenter",
+				"produces": [
+					"application/json"
+				],
+				"consumes": [
+					"application/json"
+				],
+				"parameters": [],
+				"responses": {
+					"200": {
+						"description": "successful operation",
+						"schema": {
+							"$ref": "#/definitions/getcostcenter"
+						}
+					}
+				}
+			}
+		}
+	},
+	"definitions": {
+		"gethierarchies##data##attributes": {
+			"properties": {
+				"active": {
+					"type": "boolean"
+				},
+				"company": {
+					"type": "string"
+				},
+				"name": {
+					"type": "string"
+				}
+			}
+		},
+		"gethierarchies##data##links": {
+			"properties": {
+				"self": {
+					"type": "string"
+				}
+			}
+		},
+		"gethierarchies##data##meta": {
+			"properties": {
+				"dttm_loaded": {
+					"type": "string"
+				}
+			}
+		},
+		"gethierarchies##data": {
+			"properties": {
+				"attributes": {
+					"$ref": "#/definitions/gethierarchies##data##attributes"
+				},
+				"id": {
+					"type": "string"
+				},
+				"links": {
+					"$ref": "#/definitions/gethierarchies##data##links"
+				},
+				"meta": {
+					"$ref": "#/definitions/gethierarchies##data##meta"
+				},
+				"type": {
+					"type": "string"
+				}
+			}
+		},
+		"gethierarchies##links": {
+			"properties": {
+				"first": {
+					"type": "string"
+				},
+				"last": {
+					"type": "string"
+				},
+				"next": {
+					"type": "string"
+				},
+				"prev": {
+					"type": "string"
+				},
+				"self": {
+					"type": "string"
+				}
+			}
+		},
+		"gethierarchies##meta": {
+			"properties": {
+				"pageNumber": {
+					"type": "number",
+					"format": "int32"
+				},
+				"pageSize": {
+					"type": "number",
+					"format": "int32"
+				},
+				"totalCount": {
+					"type": "number",
+					"format": "int32"
+				},
+				"totalPages": {
+					"type": "number",
+					"format": "int32"
+				}
+			}
+		},
+		"gethierarchies": {
+			"properties": {
+				"data": {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/gethierarchies##data"
+					}
+				},
+				"links": {
+					"$ref": "#/definitions/gethierarchies##links"
+				},
+				"meta": {
+					"$ref": "#/definitions/gethierarchies##meta"
+				}
+			}
+		},
+		"getcostcenter##data##attributes": {
+			"properties": {
+				"active": {
+					"type": "boolean"
+				},
+				"company": {
+					"type": "string"
+				},
+				"name": {
+					"type": "string"
+				}
+			}
+		},
+		"getcostcenter##data##links": {
+			"properties": {
+				"self": {
+					"type": "string"
+				}
+			}
+		},
+		"getcostcenter##data##meta": {
+			"properties": {
+				"dttm_loaded": {
+					"type": "string"
+				}
+			}
+		},
+		"getcostcenter##data": {
+			"properties": {
+				"attributes": {
+					"$ref": "#/definitions/getcostcenter##data##attributes"
+				},
+				"id": {
+					"type": "string"
+				},
+				"links": {
+					"$ref": "#/definitions/getcostcenter##data##links"
+				},
+				"meta": {
+					"$ref": "#/definitions/getcostcenter##data##meta"
+				},
+				"type": {
+					"type": "string"
+				}
+			}
+		},
+		"getcostcenter##links": {
+			"properties": {
+				"first": {
+					"type": "string"
+				},
+				"last": {
+					"type": "string"
+				},
+				"next": {
+					"type": "string"
+				},
+				"prev": {
+					"type": "string"
+				},
+				"self": {
+					"type": "string"
+				}
+			}
+		},
+		"getcostcenter##meta": {
+			"properties": {
+				"pageNumber": {
+					"type": "number",
+					"format": "int32"
+				},
+				"pageSize": {
+					"type": "number",
+					"format": "int32"
+				},
+				"totalCount": {
+					"type": "number",
+					"format": "int32"
+				},
+				"totalPages": {
+					"type": "number",
+					"format": "int32"
+				}
+			}
+		},
+		"getcostcenter": {
+			"properties": {
+				"data": {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/getcostcenter##data"
+					}
+				},
+				"links": {
+					"$ref": "#/definitions/getcostcenter##links"
+				},
+				"meta": {
+					"$ref": "#/definitions/getcostcenter##meta"
+				}
+			}
+		}
+	}
+}
