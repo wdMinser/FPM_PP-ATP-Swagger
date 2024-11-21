@@ -213,6 +213,9 @@
 				},
 				"name": {
 					"type": "string"
+				},
+				"parentId": {
+					"type": "string"
 				}
 			}
 		},
