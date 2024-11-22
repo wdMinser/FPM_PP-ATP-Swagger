@@ -124,7 +124,7 @@
 		},
 		"gethierarchies##data##meta": {
 			"properties": {
-				"dttm_loaded": {
+				"dttmLoaded": {
 					"type": "string"
 				}
 			}
@@ -228,7 +228,7 @@
 		},
 		"getcostcenter##data##meta": {
 			"properties": {
-				"dttm_loaded": {
+				"dttmLoaded": {
 					"type": "string"
 				}
 			}
