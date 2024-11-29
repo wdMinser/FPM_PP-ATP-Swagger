@@ -17,7 +17,7 @@
 		"/hierarchies": {
 			"get": {
 				"tags": [
-					"gethierarchies"
+					"getAllCostCenterHierarchyObjects"
 				],
 				"summary": null,
 				"description": null,
@@ -56,7 +56,7 @@
 		"/costCenters": {
 			"get": {
 				"tags": [
-					"Get_Costcenters"
+					"getAllCostCenterObjects"
 				],
 				"summary": null,
 				"description": null,
@@ -214,7 +214,7 @@
 				"name": {
 					"type": "string"
 				},
-				"parentId": {
+				"parentHierarchyId": {
 					"type": "string"
 				}
 			}
