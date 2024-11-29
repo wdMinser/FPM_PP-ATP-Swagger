@@ -62,6 +62,9 @@
         },
         "name" : {
           "type" : "string"
+        },
+		"parentHierarchyId" : {
+          "type" : "string"
         }
       }
     },
