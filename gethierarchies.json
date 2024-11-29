@@ -17,7 +17,7 @@
 				"tags": [],
 				"summary": null,
 				"description": null,
-				"operationId": "getAllCostCenterHierarchyObjects",
+				"operationId": "getAllCCHObjects",
 				"produces": [
 					"application/json"
 				],
@@ -46,7 +46,7 @@
 					"200": {
 						"description": "successful operation",
 						"schema": {
-							"$ref": "#/definitions/gethierarchies"
+							"$ref": "#/definitions/getAllCCHObjects"
 						}
 					}
 				}
@@ -94,7 +94,7 @@
 		}
 	},
 	"definitions": {
-		"gethierarchies##data##attributes": {
+		"getAllCCHObjects##data##attributes": {
 			"properties": {
 				"active": {
 					"type": "boolean"
@@ -126,10 +126,10 @@
 				}
 			}
 		},
-		"gethierarchies##data": {
+		"getAllCCHObjects##data": {
 			"properties": {
 				"attributes": {
-					"$ref": "#/definitions/gethierarchies##data##attributes"
+					"$ref": "#/definitions/getAllCCHObjects##data##attributes"
 				},
 				"id": {
 					"type": "string"
@@ -184,12 +184,12 @@
 				}
 			}
 		},
-		"gethierarchies": {
+		"getAllCCHObjects": {
 			"properties": {
 				"data": {
 					"type": "array",
 					"items": {
-						"$ref": "#/definitions/gethierarchies##data"
+						"$ref": "#/definitions/getAllCCHObjects##data"
 					}
 				},
 				"links": {
