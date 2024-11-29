@@ -298,13 +298,8 @@
 		"getAllSupervisoryOrgs": {
 			"properties": {
 				"data": {
-					"$ref": "#/definitions/getAllSupervisoryOrgs##data"
-				},
-				"included": {
 					"type": "array",
-					"items": {
-						"$ref": "#/definitions/getAllSupervisoryOrgs##included"
-					}
+					"items": {"$ref": "#/definitions/getAllSupervisoryOrgs##data"}
 				},
 				"links": {
 					"$ref": "#/definitions/getAllSupervisoryOrgs##links"
