@@ -219,7 +219,7 @@
 		"getobject##data##meta": {
 			"properties": {
 				"dttmLoaded": {
-					"type": "string"
+					"type": "date-time"
 				}
 			}
 		},
