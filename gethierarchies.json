@@ -17,11 +17,11 @@
 		"/hierarchies": {
 			"get": {
 				"tags": [
-					"getAllCostCenterHierarchyObjects"
+					""
 				],
 				"summary": null,
 				"description": null,
-				"operationId": "gethierarchies",
+				"operationId": "getAllCostCenterHierarchyObjects",
 				"produces": [
 					"application/json"
 				],
@@ -59,11 +59,11 @@
 		"/costCenters": {
 			"get": {
 				"tags": [
-					"getAllCostCenterObjects"
+					""
 				],
 				"summary": null,
 				"description": null,
-				"operationId": "Get_Costcenters",
+				"operationId": "getAllCostCenterObjects",
 				"produces": [
 					"application/json"
 				],
