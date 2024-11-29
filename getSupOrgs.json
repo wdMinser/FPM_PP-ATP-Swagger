@@ -85,7 +85,7 @@
 				"data": {
 					"type": "array",
 					"items": {
-						"$ref": "#/definitions/GET_suporgs##data##relationships##allSubordinateOrganizations##data"
+						"$ref": "#/definitions/getAllSupervisoryOrgs##data##relationships##allSubordinateOrganizations##data"
 					}
 				}
 			}
