@@ -10,15 +10,11 @@
 	},
 	"host": "api.wisc.edu",
 	"basePath": "/finance",
-	"schemes": [
-		"https"
-	],
+	"schemes": ["https"],
 	"paths": {
 		"/hierarchies": {
 			"get": {
-				"tags": [
-					""
-				],
+				"tags": [],
 				"summary": null,
 				"description": null,
 				"operationId": "getAllCostCenterHierarchyObjects",
@@ -58,9 +54,7 @@
 		},
 		"/costCenters": {
 			"get": {
-				"tags": [
-					""
-				],
+				"tags": [],
 				"summary": null,
 				"description": null,
 				"operationId": "getAllCostCenterObjects",
@@ -125,16 +119,9 @@
 				}
 			}
 		},
-		"gethierarchies##data##links": {
+		"getobject##data##links": {
 			"properties": {
 				"self": {
-					"type": "string"
-				}
-			}
-		},
-		"gethierarchies##data##meta": {
-			"properties": {
-				"dttmLoaded": {
 					"type": "string"
 				}
 			}
@@ -148,17 +135,17 @@
 					"type": "string"
 				},
 				"links": {
-					"$ref": "#/definitions/gethierarchies##data##links"
+					"$ref": "#/definitions/getobject##data##links"
 				},
 				"meta": {
-					"$ref": "#/definitions/gethierarchies##data##meta"
+					"$ref": "#/definitions/getobject##data##meta"
 				},
 				"type": {
 					"type": "string"
 				}
 			}
 		},
-		"gethierarchies##links": {
+		"getobject##links": {
 			"properties": {
 				"first": {
 					"type": "string"
@@ -177,7 +164,7 @@
 				}
 			}
 		},
-		"gethierarchies##meta": {
+		"getobject##meta": {
 			"properties": {
 				"pageNumber": {
 					"type": "number",
@@ -206,10 +193,10 @@
 					}
 				},
 				"links": {
-					"$ref": "#/definitions/gethierarchies##links"
+					"$ref": "#/definitions/getobject##links"
 				},
 				"meta": {
-					"$ref": "#/definitions/gethierarchies##meta"
+					"$ref": "#/definitions/getobject##meta"
 				}
 			}
 		},
@@ -229,14 +216,7 @@
 				}
 			}
 		},
-		"getcostcenter##data##links": {
-			"properties": {
-				"self": {
-					"type": "string"
-				}
-			}
-		},
-		"getcostcenter##data##meta": {
+		"getobject##data##meta": {
 			"properties": {
 				"dttmLoaded": {
 					"type": "string"
@@ -252,52 +232,13 @@
 					"type": "string"
 				},
 				"links": {
-					"$ref": "#/definitions/getcostcenter##data##links"
+					"$ref": "#/definitions/getobject##data##links"
 				},
 				"meta": {
-					"$ref": "#/definitions/getcostcenter##data##meta"
+					"$ref": "#/definitions/getobject##data##meta"
 				},
 				"type": {
 					"type": "string"
-				}
-			}
-		},
-		"getcostcenter##links": {
-			"properties": {
-				"first": {
-					"type": "string"
-				},
-				"last": {
-					"type": "string"
-				},
-				"next": {
-					"type": "string"
-				},
-				"prev": {
-					"type": "string"
-				},
-				"self": {
-					"type": "string"
-				}
-			}
-		},
-		"getcostcenter##meta": {
-			"properties": {
-				"pageNumber": {
-					"type": "number",
-					"format": "int32"
-				},
-				"pageSize": {
-					"type": "number",
-					"format": "int32"
-				},
-				"totalCount": {
-					"type": "number",
-					"format": "int32"
-				},
-				"totalPages": {
-					"type": "number",
-					"format": "int32"
 				}
 			}
 		},
@@ -310,10 +251,10 @@
 					}
 				},
 				"links": {
-					"$ref": "#/definitions/getcostcenter##links"
+					"$ref": "#/definitions/getobject##links"
 				},
 				"meta": {
-					"$ref": "#/definitions/getcostcenter##meta"
+					"$ref": "#/definitions/getobject##meta"
 				}
 			}
 		}
