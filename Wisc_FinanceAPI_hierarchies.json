@@ -1,0 +1,167 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : null,
+    "version" : "1.0.0",
+    "title" : null,
+    "termsOfService" : null,
+    "contact" : null,
+    "license" : null
+  },
+  "host" : "api.wisc.edu",
+  "basePath" : "/finance",
+  "schemes" : [ "https" ],
+  "paths" : {
+    "/hierarchies" : {
+      "get" : {
+        "tags" : [ "get_hierarchies" ],
+        "summary" : null,
+        "description" : null,
+        "operationId" : "get_hierarchies",
+        "produces" : [ "application/json" ],
+        "consumes" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "page[number]",
+          "in" : "query",
+          "description" : null,
+          "required" : false,
+          "type" : "number",
+          "format" : "int32"
+        }, {
+          "name" : "page[size]",
+          "in" : "query",
+          "description" : null,
+          "required" : false,
+          "type" : "number",
+          "format" : "int32"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "successful operation",
+            "schema" : {
+              "$ref" : "#/definitions/get_hierarchies"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions" : {
+    "get_hierarchies##data##attributes" : {
+      "properties" : {
+        "availability_date" : {
+          "type" : "string"
+        },
+        "company" : {
+          "type" : "string"
+        },
+        "inactive_date" : {
+          "type" : "string"
+        },
+        "level" : {
+          "type" : "string"
+        },
+        "manager" : {
+          "type" : "string"
+        },
+        "name" : {
+          "type" : "string"
+        },
+        "parentId" : {
+          "type" : "string"
+        },
+        "subType" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_hierarchies##data##links" : {
+      "properties" : {
+        "self" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_hierarchies##data##meta" : {
+      "properties" : {
+        "dttmLoaded" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_hierarchies##data" : {
+      "properties" : {
+        "attributes" : {
+          "$ref" : "#/definitions/get_hierarchies##data##attributes"
+        },
+        "id" : {
+          "type" : "string"
+        },
+        "links" : {
+          "$ref" : "#/definitions/get_hierarchies##data##links"
+        },
+        "meta" : {
+          "$ref" : "#/definitions/get_hierarchies##data##meta"
+        },
+        "type" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_hierarchies##links" : {
+      "properties" : {
+        "first" : {
+          "type" : "string"
+        },
+        "last" : {
+          "type" : "string"
+        },
+        "next" : {
+          "type" : "string"
+        },
+        "prev" : {
+          "type" : "string"
+        },
+        "self" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_hierarchies##meta" : {
+      "properties" : {
+        "pageNumber" : {
+          "type" : "number",
+          "format" : "int32"
+        },
+        "pageSize" : {
+          "type" : "number",
+          "format" : "int32"
+        },
+        "totalCount" : {
+          "type" : "number",
+          "format" : "int32"
+        },
+        "totalPages" : {
+          "type" : "number",
+          "format" : "int32"
+        }
+      }
+    },
+    "get_hierarchies" : {
+      "properties" : {
+        "data" : {
+          "type" : "array",
+          "items" : {
+            "$ref" : "#/definitions/get_hierarchies##data"
+          }
+        },
+        "links" : {
+          "$ref" : "#/definitions/get_hierarchies##links"
+        },
+        "meta" : {
+          "$ref" : "#/definitions/get_hierarchies##meta"
+        }
+      }
+    }
+  }
+}

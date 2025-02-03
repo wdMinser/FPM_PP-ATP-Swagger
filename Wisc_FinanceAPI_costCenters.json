@@ -1,0 +1,152 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : null,
+    "version" : "1.0.0",
+    "title" : null,
+    "termsOfService" : null,
+    "contact" : null,
+    "license" : null
+  },
+  "host" : "api.wisc.edu",
+  "basePath" : "/finance",
+  "schemes" : [ "https" ],
+  "paths" : {
+    "/costCenters" : {
+      "get" : {
+        "tags" : [ "get_costCenters" ],
+        "summary" : null,
+        "description" : null,
+        "operationId" : "get_costCenters",
+        "produces" : [ "application/json" ],
+        "consumes" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "page[number]",
+          "in" : "query",
+          "description" : null,
+          "required" : false,
+          "type" : "number",
+          "format" : "int32"
+        }, {
+          "name" : "page[size]",
+          "in" : "query",
+          "description" : null,
+          "required" : false,
+          "type" : "number",
+          "format" : "int32"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "successful operation",
+            "schema" : {
+              "$ref" : "#/definitions/get_costCenters"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions" : {
+    "get_costCenters##data##attributes" : {
+      "properties" : {
+        "active" : {
+          "type" : "boolean"
+        },
+        "company" : {
+          "type" : "string"
+        },
+        "name" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_costCenters##data##links" : {
+      "properties" : {
+        "self" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_costCenters##data##meta" : {
+      "properties" : {
+        "dttmLoaded" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_costCenters##data" : {
+      "properties" : {
+        "attributes" : {
+          "$ref" : "#/definitions/get_costCenters##data##attributes"
+        },
+        "id" : {
+          "type" : "string"
+        },
+        "links" : {
+          "$ref" : "#/definitions/get_costCenters##data##links"
+        },
+        "meta" : {
+          "$ref" : "#/definitions/Get_Costcenters##data##meta"
+        },
+        "type" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_costCenters##links" : {
+      "properties" : {
+        "first" : {
+          "type" : "string"
+        },
+        "last" : {
+          "type" : "string"
+        },
+        "next" : {
+          "type" : "string"
+        },
+        "prev" : {
+          "type" : "string"
+        },
+        "self" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_costCenters##meta" : {
+      "properties" : {
+        "page[number]" : {
+          "type" : "number",
+          "format" : "int32"
+        },
+        "page[size]" : {
+          "type" : "number",
+          "format" : "int32"
+        },
+        "totalCount" : {
+          "type" : "number",
+          "format" : "int32"
+        },
+        "totalPages" : {
+          "type" : "number",
+          "format" : "int32"
+        }
+      }
+    },
+    "get_costCenters" : {
+      "properties" : {
+        "data" : {
+          "type" : "array",
+          "items" : {
+            "$ref" : "#/definitions/get_costCenters##data"
+          }
+        },
+        "links" : {
+          "$ref" : "#/definitions/get_costCenters##links"
+        },
+        "meta" : {
+          "$ref" : "#/definitions/get_costCenters##meta"
+        }
+      }
+    }
+  }
+}

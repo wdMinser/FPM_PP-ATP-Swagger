@@ -1,0 +1,310 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : null,
+    "version" : "1.0.0",
+    "title" : null,
+    "termsOfService" : null,
+    "contact" : null,
+    "license" : null
+  },
+  "host" : "api.wisc.edu",
+  "basePath" : "/hr",
+  "schemes" : [ "https" ],
+  "paths" : {
+    "/supervisoryOrganizations/{supervisoryOrganizationId}" : {
+      "get" : {
+        "tags" : [ "get_supervisoryOrganizations" ],
+        "summary" : null,
+        "description" : null,
+        "operationId" : "get_supervisoryOrganizations",
+        "produces" : [ "application/json" ],
+        "consumes" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "include",
+          "in" : "query",
+          "description" : null,
+          "required" : false,
+          "type" : "string"
+        }, {
+          "name" : "supervisoryOrganizationId",
+          "in" : "path",
+          "description" : null,
+          "required" : false,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "successful operation",
+            "schema" : {
+              "$ref" : "#/definitions/get_supervisoryOrganizations"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions" : {
+    "get_supervisoryOrganizations##data##attributes" : {
+      "properties" : {
+        "code" : {
+          "type" : "string"
+        },
+        "name" : {
+          "type" : "string"
+        },
+        "supervisoryOrganizationType" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##data##links" : {
+      "properties" : {
+        "self" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##data##relationships##allSubordinateOrganizations##data" : {
+      "properties" : {
+        "id" : {
+          "type" : "string"
+        },
+        "type" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##data##relationships##allSubordinateOrganizations" : {
+      "properties" : {
+        "data" : {
+          "type" : "array",
+          "items" : {
+            "$ref" : "#/definitions/get_supervisoryOrganizations##data##relationships##allSubordinateOrganizations##data"
+          }
+        }
+      }
+    },
+    "get_supervisoryOrganizations##data##relationships##subordinateOrganizations##data" : {
+      "properties" : {
+        "id" : {
+          "type" : "string"
+        },
+        "type" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##data##relationships##subordinateOrganizations" : {
+      "properties" : {
+        "data" : {
+          "type" : "array",
+          "items" : {
+            "$ref" : "#/definitions/get_supervisoryOrganizations##data##relationships##subordinateOrganizations##data"
+          }
+        }
+      }
+    },
+    "get_supervisoryOrganizations##data##relationships##superiorOrganization##data" : {
+      "properties" : {
+        "id" : {
+          "type" : "string"
+        },
+        "type" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##data##relationships##superiorOrganization##links" : {
+      "properties" : {
+        "related" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##data##relationships##superiorOrganization" : {
+      "properties" : {
+        "data" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##data##relationships##superiorOrganization##data"
+        },
+        "links" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##data##relationships##superiorOrganization##links"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##data##relationships" : {
+      "properties" : {
+        "allSubordinateOrganizations" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##data##relationships##allSubordinateOrganizations"
+        },
+        "subordinateOrganizations" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##data##relationships##subordinateOrganizations"
+        },
+        "superiorOrganization" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##data##relationships##superiorOrganization"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##data" : {
+      "properties" : {
+        "attributes" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##data##attributes"
+        },
+        "id" : {
+          "type" : "string"
+        },
+        "links" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##data##links"
+        },
+        "relationships" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##data##relationships"
+        },
+        "type" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##included##attributes" : {
+      "properties" : {
+        "code" : {
+          "type" : "string"
+        },
+        "name" : {
+          "type" : "string"
+        },
+        "supervisoryOrganizationType" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##included##links" : {
+      "properties" : {
+        "self" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##included##relationships##allSubordinateOrganizations##data" : {
+      "properties" : {
+        "id" : {
+          "type" : "string"
+        },
+        "type" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##included##relationships##allSubordinateOrganizations" : {
+      "properties" : {
+        "data" : {
+          "type" : "array",
+          "items" : {
+            "$ref" : "#/definitions/get_supervisoryOrganizations##included##relationships##allSubordinateOrganizations##data"
+          }
+        }
+      }
+    },
+    "get_supervisoryOrganizations##included##relationships##subordinateOrganizations##data" : {
+      "properties" : {
+        "id" : {
+          "type" : "string"
+        },
+        "type" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##included##relationships##subordinateOrganizations" : {
+      "properties" : {
+        "data" : {
+          "type" : "array",
+          "items" : {
+            "$ref" : "#/definitions/get_supervisoryOrganizations##included##relationships##subordinateOrganizations##data"
+          }
+        }
+      }
+    },
+    "get_supervisoryOrganizations##included##relationships##superiorOrganization##data" : {
+      "properties" : {
+        "id" : {
+          "type" : "string"
+        },
+        "type" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##included##relationships##superiorOrganization##links" : {
+      "properties" : {
+        "related" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##included##relationships##superiorOrganization" : {
+      "properties" : {
+        "data" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##included##relationships##superiorOrganization##data"
+        },
+        "links" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##included##relationships##superiorOrganization##links"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##included##relationships" : {
+      "properties" : {
+        "allSubordinateOrganizations" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##included##relationships##allSubordinateOrganizations"
+        },
+        "subordinateOrganizations" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##included##relationships##subordinateOrganizations"
+        },
+        "superiorOrganization" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##included##relationships##superiorOrganization"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##included" : {
+      "properties" : {
+        "attributes" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##included##attributes"
+        },
+        "id" : {
+          "type" : "string"
+        },
+        "links" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##included##links"
+        },
+        "relationships" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##included##relationships"
+        },
+        "type" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations##links" : {
+      "properties" : {
+        "self" : {
+          "type" : "string"
+        }
+      }
+    },
+    "get_supervisoryOrganizations" : {
+      "properties" : {
+        "data" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##data"
+        },
+        "included" : {
+          "type" : "array",
+          "items" : {
+            "$ref" : "#/definitions/get_supervisoryOrganizations##included"
+          }
+        },
+        "links" : {
+          "$ref" : "#/definitions/get_supervisoryOrganizations##links"
+        }
+      }
+    }
+  }
+}
