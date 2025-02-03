@@ -1,0 +1,4265 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00255022"
+                    }
+                ],
+                "managerId": "02134320",
+                "name": "UWOSH | BRCH | Access Campus Administration",
+                "parentHierarchyId": "CCH005921"
+            },
+            "id": "CC000238",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000238"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01010146"
+                    }
+                ],
+                "managerId": "02215400",
+                "name": "UWOSH | CADR | Accessibility Center",
+                "parentHierarchyId": "CCH006003"
+            },
+            "id": "CC000239",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000239"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038559"
+                    }
+                ],
+                "managerId": "02328787",
+                "name": "UWOSH | COB | Accounting",
+                "parentHierarchyId": "CCH005940"
+            },
+            "id": "CC000240",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000240"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01052741"
+                    }
+                ],
+                "managerId": "02352354",
+                "name": "UWOSH | ADM | Admissions",
+                "parentHierarchyId": "CCH005922"
+            },
+            "id": "CC000241",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000241"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01046296"
+                    }
+                ],
+                "managerId": "02341595",
+                "name": "UWOSH | PROV | Advance Titan",
+                "parentHierarchyId": "CCH006034"
+            },
+            "id": "CC000242",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000242"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00023958"
+                    }
+                ],
+                "managerId": "00503207",
+                "name": "UWOSH | ADVANC | Advancement",
+                "parentHierarchyId": "CCH005923"
+            },
+            "id": "CC000243",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000243"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Anthropology, Global Religions, and Cultures",
+                "parentHierarchyId": "CCH005961"
+            },
+            "id": "CC000244",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000244"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Art",
+                "parentHierarchyId": "CCH005962"
+            },
+            "id": "CC000245",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000245"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00396203"
+                    }
+                ],
+                "managerId": "02333042",
+                "name": "UWOSH | CSSB | Center for Student Success and Belonging",
+                "parentHierarchyId": "CCH005924"
+            },
+            "id": "CC000246",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000246"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00849540"
+                    }
+                ],
+                "managerId": "02370975",
+                "name": "UWOSH | FACMGMT | Auto Shop",
+                "parentHierarchyId": "CCH006007"
+            },
+            "id": "CC000247",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000247"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00849540"
+                    }
+                ],
+                "managerId": "02370975",
+                "name": "UWOSH | VCFIN | Biogas Program",
+                "parentHierarchyId": "CCH005932"
+            },
+            "id": "CC000248",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000248"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01009735"
+                    }
+                ],
+                "managerId": "02255658",
+                "name": "UWOSH | COLS | Biology",
+                "parentHierarchyId": "CCH005963"
+            },
+            "id": "CC000249",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000249"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00255022"
+                    }
+                ],
+                "managerId": "02134320",
+                "name": "UWOSH | BUDPLN | Budget & Planning",
+                "parentHierarchyId": "CCH005933"
+            },
+            "id": "CC000251",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000251"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00849540"
+                    }
+                ],
+                "managerId": "02370975",
+                "name": "UWOSH | FACMGMT | Building Maintenance",
+                "parentHierarchyId": "CCH006008"
+            },
+            "id": "CC000252",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000252"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01052741"
+                    }
+                ],
+                "managerId": "02352354",
+                "name": "UWOSH | CAREER | Career and Professional Development",
+                "parentHierarchyId": "CCH005935"
+            },
+            "id": "CC000253",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000253"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00757592"
+                    }
+                ],
+                "managerId": "02050936",
+                "name": "UWOSH | CAR | Center for Academic Resources",
+                "parentHierarchyId": "CCH005934"
+            },
+            "id": "CC000254",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000254"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COB | Center for Entrepreneurship",
+                "parentHierarchyId": "CCH005951"
+            },
+            "id": "CC000255",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000255"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038790"
+                    }
+                ],
+                "managerId": "02256737",
+                "name": "UWOSH | CETL | Center for Excellence in Teaching and Learning",
+                "parentHierarchyId": "CCH005937"
+            },
+            "id": "CC000256",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000256"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01015591"
+                    }
+                ],
+                "managerId": "02186723",
+                "name": "UWOSH | CON | Center For Nursing Research",
+                "parentHierarchyId": "CCH005999"
+            },
+            "id": "CC000257",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000257"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00849540"
+                    }
+                ],
+                "managerId": "02370975",
+                "name": "UWOSH | FACMGMT | Central Heating and Chiller Plant",
+                "parentHierarchyId": "CCH006009"
+            },
+            "id": "CC000258",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000258"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00849540"
+                    }
+                ],
+                "managerId": "02370975",
+                "name": "UWOSH | FACMGMT | Central Stores",
+                "parentHierarchyId": "CCH006010"
+            },
+            "id": "CC000259",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000259"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00212364"
+                    }
+                ],
+                "managerId": "00619072",
+                "name": "UWOSH | CHANC | Chancellor's Office",
+                "parentHierarchyId": "CCH005938"
+            },
+            "id": "CC000260",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000260"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Chemistry",
+                "parentHierarchyId": "CCH005964"
+            },
+            "id": "CC000261",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000261"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00445975"
+                    }
+                ],
+                "managerId": "01397333",
+                "name": "UWOSH | AUXOPS | Children's Learning and Care Center",
+                "parentHierarchyId": "CCH005928"
+            },
+            "id": "CC000262",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000262"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038559"
+                    }
+                ],
+                "managerId": "02328787",
+                "name": "UWOSH | COB | Dean's Office",
+                "parentHierarchyId": "CCH005950"
+            },
+            "id": "CC000263",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000263"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00909295"
+                    }
+                ],
+                "managerId": "00989310",
+                "name": "UWOSH | COEHS | Dean's Office",
+                "parentHierarchyId": "CCH005958"
+            },
+            "id": "CC000264",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000264"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01009735"
+                    }
+                ],
+                "managerId": "02255658",
+                "name": "UWOSH | COLS | Dean's Office",
+                "parentHierarchyId": "CCH005995"
+            },
+            "id": "CC000265",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000265"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Communication Studies",
+                "parentHierarchyId": "CCH005965"
+            },
+            "id": "CC000266",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000266"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00849540"
+                    }
+                ],
+                "managerId": "02370975",
+                "name": "UWOSH | POLICE | Neighborhood Policing",
+                "parentHierarchyId": "CCH006032"
+            },
+            "id": "CC000267",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000267"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Computer Science",
+                "parentHierarchyId": "CCH005966"
+            },
+            "id": "CC000268",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000268"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01015591"
+                    }
+                ],
+                "managerId": "02186723",
+                "name": "UWOSH | CON | Dean's Office",
+                "parentHierarchyId": "CCH005998"
+            },
+            "id": "CC000269",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000269"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Cooperative Academic Partnership Program (CAPP)",
+                "parentHierarchyId": "CCH005996"
+            },
+            "id": "CC000270",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000270"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00396203"
+                    }
+                ],
+                "managerId": "02333042",
+                "name": "UWOSH | SHW | Counseling Center",
+                "parentHierarchyId": "CCH005939"
+            },
+            "id": "CC000271",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000271"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Criminal Justice",
+                "parentHierarchyId": "CCH005967"
+            },
+            "id": "CC000272",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000272"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01046296"
+                    }
+                ],
+                "managerId": "02341595",
+                "name": "UWOSH | CURAFF | Curricular Affairs",
+                "parentHierarchyId": "CCH006001"
+            },
+            "id": "CC000273",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000273"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00849540"
+                    }
+                ],
+                "managerId": "02370975",
+                "name": "UWOSH | FACMGMT | Custodial Services",
+                "parentHierarchyId": "CCH006011"
+            },
+            "id": "CC000274",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000274"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01010146"
+                    }
+                ],
+                "managerId": "02215400",
+                "name": "UWOSH | DOS | Dean of Students",
+                "parentHierarchyId": "CCH006004"
+            },
+            "id": "CC000275",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000275"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038559"
+                    }
+                ],
+                "managerId": "02328787",
+                "name": "UWOSH | COB | Economics",
+                "parentHierarchyId": "CCH005941"
+            },
+            "id": "CC000276",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000276"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Engineering Technology",
+                "parentHierarchyId": "CCH005968"
+            },
+            "id": "CC000277",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000277"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | English",
+                "parentHierarchyId": "CCH005969"
+            },
+            "id": "CC000278",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000278"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01010146"
+                    }
+                ],
+                "managerId": "02215400",
+                "name": "UWOSH | ENROLL | Enrollment Management",
+                "parentHierarchyId": "CCH006005"
+            },
+            "id": "CC000279",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000279"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00849540"
+                    }
+                ],
+                "managerId": "02370975",
+                "name": "UWOSH | FACMGMT | Facilities Management",
+                "parentHierarchyId": "CCH006012"
+            },
+            "id": "CC000280",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000280"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038790"
+                    }
+                ],
+                "managerId": "02256737",
+                "name": "UWOSH | FACDEV | Faculty Development",
+                "parentHierarchyId": "CCH006006"
+            },
+            "id": "CC000281",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000281"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038559"
+                    }
+                ],
+                "managerId": "02328787",
+                "name": "UWOSH | COB | Finance & Business Law",
+                "parentHierarchyId": "CCH005942"
+            },
+            "id": "CC000282",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000282"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01052741"
+                    }
+                ],
+                "managerId": "02352354",
+                "name": "UWOSH | FINAID | Financial Aid",
+                "parentHierarchyId": "CCH006015"
+            },
+            "id": "CC000283",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000283"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Global Languages & Cultures",
+                "parentHierarchyId": "CCH005971"
+            },
+            "id": "CC000284",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000284"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Geography",
+                "parentHierarchyId": "CCH005972"
+            },
+            "id": "CC000285",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000285"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Geology",
+                "parentHierarchyId": "CCH005973"
+            },
+            "id": "CC000286",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000286"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00212364"
+                    }
+                ],
+                "managerId": "00619072",
+                "name": "UWOSH | CHANC | Governance",
+                "parentHierarchyId": "CCH005938"
+            },
+            "id": "CC000287",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000287"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01015591"
+                    }
+                ],
+                "managerId": "02186723",
+                "name": "UWOSH | CON | Graduate Nursing Programs",
+                "parentHierarchyId": "CCH005997"
+            },
+            "id": "CC000288",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000288"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038790"
+                    }
+                ],
+                "managerId": "02256737",
+                "name": "UWOSH | GRAD | Graduate School",
+                "parentHierarchyId": "CCH006017"
+            },
+            "id": "CC000289",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000289"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00396203"
+                    }
+                ],
+                "managerId": "02333042",
+                "name": "UWOSH | STUGOV | Green Fund",
+                "parentHierarchyId": "CCH006045"
+            },
+            "id": "CC000290",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000290"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00849540"
+                    }
+                ],
+                "managerId": "02370975",
+                "name": "UWOSH | FACMGMT | Grounds Maintenance",
+                "parentHierarchyId": "CCH006013"
+            },
+            "id": "CC000291",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000291"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | RESDIN | Gruenhagen Conference Center",
+                "parentHierarchyId": "CCH006041"
+            },
+            "id": "CC000292",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000292"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00445975"
+                    }
+                ],
+                "managerId": "01397333",
+                "name": "UWOSH | HEADST | Head Start",
+                "parentHierarchyId": "CCH006018"
+            },
+            "id": "CC000293",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000293"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | History",
+                "parentHierarchyId": "CCH005974"
+            },
+            "id": "CC000294",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000294"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Hmong Studies",
+                "parentHierarchyId": "CCH005975"
+            },
+            "id": "CC000295",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000295"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038559"
+                    }
+                ],
+                "managerId": "02328787",
+                "name": "UWOSH | COB | Information Systems",
+                "parentHierarchyId": "CCH005943"
+            },
+            "id": "CC000296",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000296"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00131299"
+                    }
+                ],
+                "managerId": "02238305",
+                "name": "UWOSH | IT | Information Technology",
+                "parentHierarchyId": "CCH006022"
+            },
+            "id": "CC000297",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000297"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00212364"
+                    }
+                ],
+                "managerId": "00619072",
+                "name": "UWOSH | CHANC | Office of Institutional Effectiveness",
+                "parentHierarchyId": "CCH005938"
+            },
+            "id": "CC000298",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000298"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00304951"
+                    }
+                ],
+                "managerId": "01458671",
+                "name": "UWOSH | ATHL | Intercollegiate Athletics Operations",
+                "parentHierarchyId": "CCH005925"
+            },
+            "id": "CC000299",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000299"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00396203"
+                    }
+                ],
+                "managerId": "02333042",
+                "name": "UWOSH | ASIE | Intercultural Engagement",
+                "parentHierarchyId": "CCH005924"
+            },
+            "id": "CC000300",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000300"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01052741"
+                    }
+                ],
+                "managerId": "02352354",
+                "name": "UWOSH | ADM | International Student Services",
+                "parentHierarchyId": "CCH006030"
+            },
+            "id": "CC000301",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000301"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Journalism",
+                "parentHierarchyId": "CCH005978"
+            },
+            "id": "CC000302",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000302"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Kinesiology",
+                "parentHierarchyId": "CCH005979"
+            },
+            "id": "CC000303",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000303"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00396203"
+                    }
+                ],
+                "managerId": "02333042",
+                "name": "UWOSH | ASIE | LGBTQ+ Resource Center",
+                "parentHierarchyId": "CCH005924"
+            },
+            "id": "CC000304",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000304"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00222449"
+                    }
+                ],
+                "managerId": "00630760",
+                "name": "UWOSH | LIBR | Library",
+                "parentHierarchyId": "CCH006024"
+            },
+            "id": "CC000305",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000305"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038559"
+                    }
+                ],
+                "managerId": "02328787",
+                "name": "UWOSH | COB | Management & Human Resources",
+                "parentHierarchyId": "CCH005946"
+            },
+            "id": "CC000306",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000306"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038559"
+                    }
+                ],
+                "managerId": "02328787",
+                "name": "UWOSH | COB | Marketing",
+                "parentHierarchyId": "CCH005947"
+            },
+            "id": "CC000307",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000307"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Mathematics",
+                "parentHierarchyId": "CCH005980"
+            },
+            "id": "CC000308",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000308"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Medical Laboratory Science",
+                "parentHierarchyId": "CCH005981"
+            },
+            "id": "CC000309",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000309"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00787200"
+                    }
+                ],
+                "managerId": "00408167",
+                "name": "UWOSH | ATHL | Men's Baseball",
+                "parentHierarchyId": "CCH005926"
+            },
+            "id": "CC000310",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000310"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00304951"
+                    }
+                ],
+                "managerId": "01458671",
+                "name": "UWOSH | ATHL | Men's Basketball",
+                "parentHierarchyId": "CCH005926"
+            },
+            "id": "CC000311",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000311"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00743533"
+                    }
+                ],
+                "managerId": "02039705",
+                "name": "UWOSH | ATHL | Men's Cross Country",
+                "parentHierarchyId": "CCH005926"
+            },
+            "id": "CC000312",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000312"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00774658"
+                    }
+                ],
+                "managerId": "01221975",
+                "name": "UWOSH | ATHL | Men's Football",
+                "parentHierarchyId": "CCH005926"
+            },
+            "id": "CC000313",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000313"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00835151"
+                    }
+                ],
+                "managerId": "02123889",
+                "name": "UWOSH | ATHL | Men's Swimming and Diving",
+                "parentHierarchyId": "CCH005926"
+            },
+            "id": "CC000314",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000314"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00886255"
+                    }
+                ],
+                "managerId": "02168558",
+                "name": "UWOSH | ATHL | Men's Track & Field",
+                "parentHierarchyId": "CCH005926"
+            },
+            "id": "CC000315",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000315"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00599800"
+                    }
+                ],
+                "managerId": "02322618",
+                "name": "UWOSH | ATHL | Men's Wrestling",
+                "parentHierarchyId": "CCH005926"
+            },
+            "id": "CC000316",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000316"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Military Science",
+                "parentHierarchyId": "CCH005982"
+            },
+            "id": "CC000317",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000317"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Music",
+                "parentHierarchyId": "CCH005983"
+            },
+            "id": "CC000318",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000318"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01052741"
+                    }
+                ],
+                "managerId": "02352354",
+                "name": "UWOSH | NSRP | New Students and Retention Programs",
+                "parentHierarchyId": "CCH006026"
+            },
+            "id": "CC000319",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000319"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00487930"
+                    }
+                ],
+                "managerId": "02341532",
+                "name": "UWOSH | OIE | Office of International Education",
+                "parentHierarchyId": "CCH006027"
+            },
+            "id": "CC000320",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000320"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00849540"
+                    }
+                ],
+                "managerId": "02370975",
+                "name": "UWOSH | FACMGMT | Environmental Health and Safety",
+                "parentHierarchyId": "CCH006043"
+            },
+            "id": "CC000321",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000321"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038790"
+                    }
+                ],
+                "managerId": "02256737",
+                "name": "UWOSH | OSP | Office of Sponsored Programs",
+                "parentHierarchyId": "CCH006028"
+            },
+            "id": "CC000322",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000322"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01038790"
+                    }
+                ],
+                "managerId": "02256737",
+                "name": "UWOSH | SRCA | Student Research & Creative Activity",
+                "parentHierarchyId": "CCH006029"
+            },
+            "id": "CC000323",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000323"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | CURAFF | OPLR Collaborative Degree Programs",
+                "parentHierarchyId": "CCH006000"
+            },
+            "id": "CC000324",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000324"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00304951"
+                    }
+                ],
+                "managerId": "01458671",
+                "name": "UWOSH | ATHL | Oshkosh Sports Complex",
+                "parentHierarchyId": "CCH005925"
+            },
+            "id": "CC000325",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000325"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00396203"
+                    }
+                ],
+                "managerId": "02333042",
+                "name": "UWOSH | STUGOV | Oshkosh Student Government",
+                "parentHierarchyId": "CCH006045"
+            },
+            "id": "CC000326",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000326"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Philosophy",
+                "parentHierarchyId": "CCH005984"
+            },
+            "id": "CC000327",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000327"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Physics Astronomy",
+                "parentHierarchyId": "CCH005985"
+            },
+            "id": "CC000328",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000328"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00849540"
+                    }
+                ],
+                "managerId": "02370975",
+                "name": "UWOSH | FACMGMT | Planning and Construction",
+                "parentHierarchyId": "CCH006014"
+            },
+            "id": "CC000329",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000329"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01052741"
+                    }
+                ],
+                "managerId": "02352354",
+                "name": "UWOSH | ADM | Pre-College Programs",
+                "parentHierarchyId": "CCH005924"
+            },
+            "id": "CC000330",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000330"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00909295"
+                    }
+                ],
+                "managerId": "00989310",
+                "name": "UWOSH | COEHS | Professional Education Program",
+                "parentHierarchyId": "CCH005955"
+            },
+            "id": "CC000331",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000331"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01046296"
+                    }
+                ],
+                "managerId": "02341595",
+                "name": "UWOSH | PROV | Provost and Vice Chancellor Academic Affairs",
+                "parentHierarchyId": "CCH006034"
+            },
+            "id": "CC000332",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000332"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Radio TV Film",
+                "parentHierarchyId": "CCH005989"
+            },
+            "id": "CC000333",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000333"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | REEVE | Reeve Union",
+                "parentHierarchyId": "CCH006039"
+            },
+            "id": "CC000334",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000334"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01046296"
+                    }
+                ],
+                "managerId": "02341595",
+                "name": "UWOSH | RGSTR | Registrar",
+                "parentHierarchyId": "CCH006042"
+            },
+            "id": "CC000335",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000335"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | RESDIN | Residence Life",
+                "parentHierarchyId": "CCH006041"
+            },
+            "id": "CC000337",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000337"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00212364"
+                    }
+                ],
+                "managerId": "00619072",
+                "name": "UWOSH | UNITWD | Revenue Generating Contracts",
+                "parentHierarchyId": "CCH006048"
+            },
+            "id": "CC000338",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000338"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COB | Small Business Development Center",
+                "parentHierarchyId": "CCH005951"
+            },
+            "id": "CC000339",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000339"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Social Work",
+                "parentHierarchyId": "CCH005991"
+            },
+            "id": "CC000340",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000340"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00400381"
+                    }
+                ],
+                "managerId": "02333293",
+                "name": "UWOSH | EVENT | University Event and Conference Services",
+                "parentHierarchyId": "CCH005923"
+            },
+            "id": "CC000341",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000341"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | SHW | Sports Clubs",
+                "parentHierarchyId": "CCH006037"
+            },
+            "id": "CC000342",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000342"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00304951"
+                    }
+                ],
+                "managerId": "01458671",
+                "name": "UWOSH | ATHL | Sports Medicine",
+                "parentHierarchyId": "CCH005925"
+            },
+            "id": "CC000343",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000343"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00396203"
+                    }
+                ],
+                "managerId": "02333042",
+                "name": "UWOSH | STUGOV | Student Allocations",
+                "parentHierarchyId": "CCH006045"
+            },
+            "id": "CC000344",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000344"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00396203"
+                    }
+                ],
+                "managerId": "02333042",
+                "name": "UWOSH | SHW | Student Health Center",
+                "parentHierarchyId": "CCH006044"
+            },
+            "id": "CC000345",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000345"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01052741"
+                    }
+                ],
+                "managerId": "02352354",
+                "name": "UWOSH | ENROLL | Student Outreach and Retention",
+                "parentHierarchyId": "CCH006031"
+            },
+            "id": "CC000346",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000346"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | SHW | Student Recreation",
+                "parentHierarchyId": "CCH006038"
+            },
+            "id": "CC000347",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000347"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00131299"
+                    }
+                ],
+                "managerId": "02238305",
+                "name": "UWOSH | IT | Student Tech Fee",
+                "parentHierarchyId": "CCH006023"
+            },
+            "id": "CC000348",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000348"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00487930"
+                    }
+                ],
+                "managerId": "02341532",
+                "name": "UWOSH | BRCH | Testing Services",
+                "parentHierarchyId": "CCH006046"
+            },
+            "id": "CC000349",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000349"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Theatre",
+                "parentHierarchyId": "CCH005993"
+            },
+            "id": "CC000350",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000350"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00396203"
+                    }
+                ],
+                "managerId": "02333042",
+                "name": "UWOSH | ASIE | Titan Advantage Program",
+                "parentHierarchyId": "CCH005924"
+            },
+            "id": "CC000351",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000351"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | RESDIN | Titan Card",
+                "parentHierarchyId": "CCH006039"
+            },
+            "id": "CC000352",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000352"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00396203"
+                    }
+                ],
+                "managerId": "02333042",
+                "name": "UWOSH | CSSB | TRIO",
+                "parentHierarchyId": "CCH005924"
+            },
+            "id": "CC000353",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000353"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00144872"
+                    }
+                ],
+                "managerId": "01503935",
+                "name": "UWOSH | UARC | Undergraduate Advising Resource Center",
+                "parentHierarchyId": "CCH006047"
+            },
+            "id": "CC000354",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000354"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01015591"
+                    }
+                ],
+                "managerId": "02186723",
+                "name": "UWOSH | CON | Undergraduate Nursing Programs",
+                "parentHierarchyId": "CCH005997"
+            },
+            "id": "CC000355",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000355"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00800915"
+                    }
+                ],
+                "managerId": "02310180",
+                "name": "UWOSH | VCFIN | University Books & More",
+                "parentHierarchyId": "CCH005931"
+            },
+            "id": "CC000356",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000356"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | RESDIN | University Dining",
+                "parentHierarchyId": "CCH006002"
+            },
+            "id": "CC000357",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000357"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01046296"
+                    }
+                ],
+                "managerId": "02341595",
+                "name": "UWOSH | HONORS | Honors College",
+                "parentHierarchyId": "CCH006019"
+            },
+            "id": "CC000358",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000358"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01072574"
+                    }
+                ],
+                "managerId": "02373680",
+                "name": "UWOSH | MKTG | University Marketing",
+                "parentHierarchyId": "CCH006025"
+            },
+            "id": "CC000359",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000359"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00217134"
+                    }
+                ],
+                "managerId": "00410968",
+                "name": "UWOSH | USP | University Studies Program",
+                "parentHierarchyId": "CCH006053"
+            },
+            "id": "CC000360",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000360"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | UWS IDEAS Alliance",
+                "parentHierarchyId": "CCH005996"
+            },
+            "id": "CC000362",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000362"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01010146"
+                    }
+                ],
+                "managerId": "02215400",
+                "name": "UWOSH | VCSTUD | Vice Chancellor Enrollment and Student Success Office",
+                "parentHierarchyId": "CCH006055"
+            },
+            "id": "CC000363",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000363"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00349042"
+                    }
+                ],
+                "managerId": "02040238",
+                "name": "UWOSH | ATHL | Women's Basketball",
+                "parentHierarchyId": "CCH005927"
+            },
+            "id": "CC000364",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000364"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00396203"
+                    }
+                ],
+                "managerId": "02333042",
+                "name": "UWOSH | ASIE | Women's Center",
+                "parentHierarchyId": "CCH005924"
+            },
+            "id": "CC000365",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000365"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00743533"
+                    }
+                ],
+                "managerId": "02039705",
+                "name": "UWOSH | ATHL | Women's Cross Country",
+                "parentHierarchyId": "CCH005927"
+            },
+            "id": "CC000366",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000366"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | ATHL | Women's Golf",
+                "parentHierarchyId": "CCH005927"
+            },
+            "id": "CC000367",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000367"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00521772"
+                    }
+                ],
+                "managerId": "01378235",
+                "name": "UWOSH | ATHL | Women's Gymnastics",
+                "parentHierarchyId": "CCH005927"
+            },
+            "id": "CC000368",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000368"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00304951"
+                    }
+                ],
+                "managerId": "01458671",
+                "name": "UWOSH | ATHL | Women's Soccer",
+                "parentHierarchyId": "CCH005927"
+            },
+            "id": "CC000369",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000369"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00738608"
+                    }
+                ],
+                "managerId": "00915631",
+                "name": "UWOSH | ATHL | Women's Softball",
+                "parentHierarchyId": "CCH005927"
+            },
+            "id": "CC000370",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000370"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00835151"
+                    }
+                ],
+                "managerId": "02123889",
+                "name": "UWOSH | ATHL | Women's Swimming and Diving",
+                "parentHierarchyId": "CCH005927"
+            },
+            "id": "CC000371",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000371"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00156175"
+                    }
+                ],
+                "managerId": "00407965",
+                "name": "UWOSH | ATHL | Women's Tennis",
+                "parentHierarchyId": "CCH005927"
+            },
+            "id": "CC000372",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000372"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00886255"
+                    }
+                ],
+                "managerId": "02168558",
+                "name": "UWOSH | ATHL | Women's Track & Field",
+                "parentHierarchyId": "CCH005927"
+            },
+            "id": "CC000373",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000373"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00304951"
+                    }
+                ],
+                "managerId": "01458671",
+                "name": "UWOSH | ATHL | Women's Volleyball",
+                "parentHierarchyId": "CCH005927"
+            },
+            "id": "CC000374",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000374"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWOSH",
+                "leadershipRoleAssignees": [],
+                "managerId": "",
+                "name": "UWOSH | COLS | Writing Center",
+                "parentHierarchyId": "CCH005996"
+            },
+            "id": "CC000375",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000375"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | CHANC | Administration",
+                "parentHierarchyId": "CCH006106"
+            },
+            "id": "CC000376",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000376"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00906162"
+                    }
+                ],
+                "managerId": "02305632",
+                "name": "UWPLT | PROVOPS | International Student Services",
+                "parentHierarchyId": "CCH007358"
+            },
+            "id": "CC000377",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000377"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00601534"
+                    }
+                ],
+                "managerId": "01483682",
+                "name": "UWPLT | SAAS | Diversity, Equity, and Inclusion Administration",
+                "parentHierarchyId": "CCH006107"
+            },
+            "id": "CC000378",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000378"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | FDN | Foundation and Alumni",
+                "parentHierarchyId": "CCH007350"
+            },
+            "id": "CC000379",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000379"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00601534"
+                    }
+                ],
+                "managerId": "02292020",
+                "name": "UWPLT | SAAS | Multicultural Student Affairs",
+                "parentHierarchyId": "CCH006107"
+            },
+            "id": "CC000380",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000380"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | EMM | Marketing",
+                "parentHierarchyId": "CCH007348"
+            },
+            "id": "CC000381",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000381"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00506902"
+                    }
+                ],
+                "managerId": "02012113",
+                "name": "UWPLT | BRCH | Corporate and Economic Development",
+                "parentHierarchyId": "CCH007334"
+            },
+            "id": "CC000382",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000382"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | ATHL | Athletics and Recreation Operations",
+                "parentHierarchyId": "CCH006090"
+            },
+            "id": "CC000383",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000383"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | ATHL | Basketball-Men",
+                "parentHierarchyId": "CCH006091"
+            },
+            "id": "CC000384",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000384"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | ATHL | Basketball-Women",
+                "parentHierarchyId": "CCH006092"
+            },
+            "id": "CC000385",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000385"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | ATHL | Volleyball-Women",
+                "parentHierarchyId": "CCH006092"
+            },
+            "id": "CC000386",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000386"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | ATHL | Softball-Women",
+                "parentHierarchyId": "CCH006092"
+            },
+            "id": "CC000387",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000387"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | ATHL | Football-Men",
+                "parentHierarchyId": "CCH006091"
+            },
+            "id": "CC000388",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000388"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | ATHL | Soccer-Men",
+                "parentHierarchyId": "CCH006091"
+            },
+            "id": "CC000389",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000389"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | ATHL | Soccer-Women",
+                "parentHierarchyId": "CCH006092"
+            },
+            "id": "CC000390",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000390"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | ATHL | Wrestling-Men",
+                "parentHierarchyId": "CCH006091"
+            },
+            "id": "CC000391",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000391"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00766034"
+                    }
+                ],
+                "managerId": "02339443",
+                "name": "UWPLT | HR&FIN | Foundation Accounting",
+                "parentHierarchyId": "CCH007352"
+            },
+            "id": "CC000392",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000392"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00609088"
+                    }
+                ],
+                "managerId": "01517611",
+                "name": "UWPLT | SLS | Event Services",
+                "parentHierarchyId": "CCH006138"
+            },
+            "id": "CC000394",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000394"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00906162"
+                    }
+                ],
+                "managerId": "02305632",
+                "name": "UWPLT | PROVOPS | Corporate and Economic Development",
+                "parentHierarchyId": "CCH007356"
+            },
+            "id": "CC000395",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000395"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | PROV | Administration",
+                "parentHierarchyId": "CCH006115"
+            },
+            "id": "CC000396",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000396"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00967399"
+                    }
+                ],
+                "managerId": "01449326",
+                "name": "UWPLT | PROV | University Governance",
+                "parentHierarchyId": "CCH006115"
+            },
+            "id": "CC000397",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000397"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00186303"
+                    }
+                ],
+                "managerId": "01246994",
+                "name": "UWPLT | BILSA | Biology",
+                "parentHierarchyId": "CCH006096"
+            },
+            "id": "CC000399",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000399"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00968017"
+                    }
+                ],
+                "managerId": "02249233",
+                "name": "UWPLT | BILSA | Applied Engineering Technology Management",
+                "parentHierarchyId": "CCH006096"
+            },
+            "id": "CC000400",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000400"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00560907"
+                    }
+                ],
+                "managerId": "01266558",
+                "name": "UWPLT | BILSA | Agribusiness",
+                "parentHierarchyId": "CCH006098"
+            },
+            "id": "CC000402",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000402"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00560907"
+                    }
+                ],
+                "managerId": "01266558",
+                "name": "UWPLT | BILSA | Animal Science",
+                "parentHierarchyId": "CCH006098"
+            },
+            "id": "CC000403",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000403"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00560907"
+                    }
+                ],
+                "managerId": "01266558",
+                "name": "UWPLT | BILSA | Environmental Horticulture",
+                "parentHierarchyId": "CCH006098"
+            },
+            "id": "CC000404",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000404"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00166105"
+                    }
+                ],
+                "managerId": "01350077",
+                "name": "UWPLT | BILSA | Pioneer Greenhouse",
+                "parentHierarchyId": "CCH006098"
+            },
+            "id": "CC000405",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000405"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00560907"
+                    }
+                ],
+                "managerId": "01266558",
+                "name": "UWPLT | BILSA | Soil and Crop Science",
+                "parentHierarchyId": "CCH006098"
+            },
+            "id": "CC000407",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000407"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00560907"
+                    }
+                ],
+                "managerId": "01266558",
+                "name": "UWPLT | BILSA | Dairy Innovation Hub",
+                "parentHierarchyId": "CCH006099"
+            },
+            "id": "CC000411",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000411"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00858183"
+                    }
+                ],
+                "managerId": "02097581",
+                "name": "UWPLT | LAE | Criminal Justice",
+                "parentHierarchyId": "CCH006123"
+            },
+            "id": "CC000413",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000413"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00329445"
+                    }
+                ],
+                "managerId": "00633563",
+                "name": "UWPLT | LAE | Psychology",
+                "parentHierarchyId": "CCH006123"
+            },
+            "id": "CC000414",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000414"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00858183"
+                    }
+                ],
+                "managerId": "02097581",
+                "name": "UWPLT | LAE | Ethnic Studies",
+                "parentHierarchyId": "CCH006123"
+            },
+            "id": "CC000415",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000415"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00858183"
+                    }
+                ],
+                "managerId": "02097581",
+                "name": "UWPLT | LAE | Women's and Gender Studies",
+                "parentHierarchyId": "CCH006123"
+            },
+            "id": "CC000416",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000416"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00535444"
+                    }
+                ],
+                "managerId": "02383547",
+                "name": "UWPLT | LAE | History",
+                "parentHierarchyId": "CCH006123"
+            },
+            "id": "CC000417",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000417"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00560909"
+                    }
+                ],
+                "managerId": "01436552",
+                "name": "UWPLT | LAE | Environmental Science and Society",
+                "parentHierarchyId": "CCH006123"
+            },
+            "id": "CC000418",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000418"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00389252"
+                    }
+                ],
+                "managerId": "02044340",
+                "name": "UWPLT | LAE | Art",
+                "parentHierarchyId": "CCH006120"
+            },
+            "id": "CC000420",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000420"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00404957"
+                    }
+                ],
+                "managerId": "00459872",
+                "name": "UWPLT | LAE | Music",
+                "parentHierarchyId": "CCH006120"
+            },
+            "id": "CC000421",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000421"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00542538"
+                    }
+                ],
+                "managerId": "01358981",
+                "name": "UWPLT | LAE | Speech",
+                "parentHierarchyId": "CCH006120"
+            },
+            "id": "CC000422",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000422"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00389252"
+                    }
+                ],
+                "managerId": "02044340",
+                "name": "UWPLT | LAE | Theater",
+                "parentHierarchyId": "CCH006120"
+            },
+            "id": "CC000423",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000423"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00542538"
+                    }
+                ],
+                "managerId": "01358981",
+                "name": "UWPLT | LAE | Humanities",
+                "parentHierarchyId": "CCH006119"
+            },
+            "id": "CC000424",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000424"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00542538"
+                    }
+                ],
+                "managerId": "01358981",
+                "name": "UWPLT | LAE | English",
+                "parentHierarchyId": "CCH006119"
+            },
+            "id": "CC000425",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000425"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00542538"
+                    }
+                ],
+                "managerId": "01358981",
+                "name": "UWPLT | LAE | Foreign Languages",
+                "parentHierarchyId": "CCH006119"
+            },
+            "id": "CC000427",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000427"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00542538"
+                    }
+                ],
+                "managerId": "01358981",
+                "name": "UWPLT | LAE | Philosophy",
+                "parentHierarchyId": "CCH006119"
+            },
+            "id": "CC000428",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000428"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00858183"
+                    }
+                ],
+                "managerId": "02097581",
+                "name": "UWPLT | LAE | Political Science",
+                "parentHierarchyId": "CCH006123"
+            },
+            "id": "CC000430",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000430"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00858183"
+                    }
+                ],
+                "managerId": "02097581",
+                "name": "UWPLT | LAE | Sociology",
+                "parentHierarchyId": "CCH006123"
+            },
+            "id": "CC000431",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000431"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00804596"
+                    }
+                ],
+                "managerId": "00840217",
+                "name": "UWPLT | EMS | Computer Science and Software Engineering",
+                "parentHierarchyId": "CCH006108"
+            },
+            "id": "CC000432",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000432"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00333422"
+                    }
+                ],
+                "managerId": "00646610",
+                "name": "UWPLT | EMS | Civil and Environmental Engineering",
+                "parentHierarchyId": "CCH006108"
+            },
+            "id": "CC000433",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000433"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00804596"
+                    }
+                ],
+                "managerId": "00840217",
+                "name": "UWPLT | EMS | Electrical and Computer Engineering",
+                "parentHierarchyId": "CCH006108"
+            },
+            "id": "CC000434",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000434"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00939525"
+                    }
+                ],
+                "managerId": "01490808",
+                "name": "UWPLT | EMS | Industrial and Systems Engineering",
+                "parentHierarchyId": "CCH006108"
+            },
+            "id": "CC000435",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000435"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00939525"
+                    }
+                ],
+                "managerId": "01490808",
+                "name": "UWPLT | EMS | Mechanical Engineering",
+                "parentHierarchyId": "CCH006108"
+            },
+            "id": "CC000436",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000436"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00307259"
+                    }
+                ],
+                "managerId": "00587565",
+                "name": "UWPLT | EMS | Mathematics",
+                "parentHierarchyId": "CCH006108"
+            },
+            "id": "CC000437",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000437"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00360416"
+                    }
+                ],
+                "managerId": "02061876",
+                "name": "UWPLT | EMS | Chemistry",
+                "parentHierarchyId": "CCH006108"
+            },
+            "id": "CC000439",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000439"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00834836"
+                    }
+                ],
+                "managerId": "00460315",
+                "name": "UWPLT | EMS | Engineering Physics",
+                "parentHierarchyId": "CCH006108"
+            },
+            "id": "CC000440",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000440"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00717880"
+                    }
+                ],
+                "managerId": "02289440",
+                "name": "UWPLT | EMS | Huff Family Innovation Center",
+                "parentHierarchyId": "CCH006110"
+            },
+            "id": "CC000442",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000442"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00542541"
+                    }
+                ],
+                "managerId": "02020908",
+                "name": "UWPLT | EMS | Student Success Programs",
+                "parentHierarchyId": "CCH006110"
+            },
+            "id": "CC000443",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000443"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00906162"
+                    }
+                ],
+                "managerId": "02305632",
+                "name": "UWPLT | PROVOPS | Continuing Education",
+                "parentHierarchyId": "CCH006127"
+            },
+            "id": "CC000444",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000444"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00782756"
+                    }
+                ],
+                "managerId": "02311041",
+                "name": "UWPLT | PROVOPS | Research and Sponsored Programs",
+                "parentHierarchyId": "CCH006128"
+            },
+            "id": "CC000445",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000445"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00906162"
+                    }
+                ],
+                "managerId": "02305632",
+                "name": "UWPLT | PROVOPS | Collaborative Program - UW Online Collaboratives",
+                "parentHierarchyId": "CCH006126"
+            },
+            "id": "CC000446",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000446"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:27:38"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01051865"
+                    }
+                ],
+                "managerId": "02085715",
+                "name": "UWPLT | VCADMIN | Administration",
+                "parentHierarchyId": "CCH006086"
+            },
+            "id": "CC000449",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000449"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01051865"
+                    }
+                ],
+                "managerId": "02085715",
+                "name": "UWPLT | HR&FIN | Human Resources",
+                "parentHierarchyId": "CCH006088"
+            },
+            "id": "CC000450",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000450"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "01051865"
+                    }
+                ],
+                "managerId": "02085715",
+                "name": "UWPLT | HR&FIN | Insurance",
+                "parentHierarchyId": "CCH007353"
+            },
+            "id": "CC000451",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000451"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00875309"
+                    }
+                ],
+                "managerId": "02084482",
+                "name": "UWPLT | HR&FIN | Project Management",
+                "parentHierarchyId": "CCH006129"
+            },
+            "id": "CC000452",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000452"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00858762"
+                    }
+                ],
+                "managerId": "01316566",
+                "name": "UWPLT | CSR | Police",
+                "parentHierarchyId": "CCH006094"
+            },
+            "id": "CC000453",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000453"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00237616"
+                    }
+                ],
+                "managerId": "02375703",
+                "name": "UWPLT | CSR | Compliance Office",
+                "parentHierarchyId": "CCH006094"
+            },
+            "id": "CC000454",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000454"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        },
+        {
+            "attributes": {
+                "active": true,
+                "company": "UWPLT",
+                "leadershipRoleAssignees": [
+                    {
+                        "id": "00913076"
+                    }
+                ],
+                "managerId": "01332517",
+                "name": "UWPLT | FACILITY | Facilities Management",
+                "parentHierarchyId": "CCH006113"
+            },
+            "id": "CC000455",
+            "links": {
+                "self": "https://api.wisc.edu/finance/costCenters/CC000455"
+            },
+            "meta": {
+                "dttmLoaded": "2025-01-15T17:17:36"
+            },
+            "type": "costCenters"
+        }
+    ],
+    "links": {
+        "first": "https://api.wisc.edu/finance/costCenters?page%5Bnumber%5D=1&page%5Bsize%5D=200",
+        "last": "https://api.wisc.edu/finance/costCenters?page%5Bnumber%5D=28&page%5Bsize%5D=200",
+        "next": "https://api.wisc.edu/finance/costCenters?page%5Bnumber%5D=3&page%5Bsize%5D=200",
+        "prev": "https://api.wisc.edu/finance/costCenters?page%5Bnumber%5D=1&page%5Bsize%5D=200",
+        "self": "https://api.wisc.edu/finance/costCenters?page%5Bnumber%5D=2&page%5Bsize%5D=200"
+    },
+    "meta": {
+        "pageNumber": 2,
+        "pageSize": 200,
+        "totalCount": 5485,
+        "totalPages": 28
+    }
+}

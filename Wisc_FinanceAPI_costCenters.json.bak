@@ -47,13 +47,6 @@
     }
   },
   "definitions" : {
-    "get_costCenters##data##attributes##leadershipRoleAssignees" : {
-      "properties" : {
-        "id" : {
-          "type" : "string"
-        }
-      }
-    },
     "get_costCenters##data##attributes" : {
       "properties" : {
         "active" : {
@@ -62,19 +55,7 @@
         "company" : {
           "type" : "string"
         },
-        "leadershipRoleAssignees" : {
-          "type" : "array",
-          "items" : {
-            "$ref" : "#/definitions/get_costCenters##data##attributes##leadershipRoleAssignees"
-          }
-        },
-        "managerId" : {
-          "type" : "string"
-        },
         "name" : {
-          "type" : "string"
-        },
-        "parentHierarchyId" : {
           "type" : "string"
         }
       }
@@ -105,7 +86,7 @@
           "$ref" : "#/definitions/get_costCenters##data##links"
         },
         "meta" : {
-          "$ref" : "#/definitions/get_costCenters##data##meta"
+          "$ref" : "#/definitions/Get_Costcenters##data##meta"
         },
         "type" : {
           "type" : "string"
