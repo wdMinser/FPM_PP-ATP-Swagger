@@ -133,11 +133,11 @@
     },
     "get_costCenters##meta" : {
       "properties" : {
-        "page[number]" : {
+        "pageNumber" : {
           "type" : "number",
           "format" : "int32"
         },
-        "page[size]" : {
+        "pageSize" : {
           "type" : "number",
           "format" : "int32"
         },
