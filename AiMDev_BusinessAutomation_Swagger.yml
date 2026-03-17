@@ -21,6 +21,7 @@ paths:
       parameters:
         - in: query
           name: tranxNum
+          value: 512
           required: true
           type: string
           description: Transaction number used to identify the action, e.g., `1040`.
