@@ -1,0 +1,51 @@
+swagger: "2.0"
+info:
+  title: AssetWorks Business Automation Webservices API
+  description: |
+    Simple POST endpoint to trigger an action code in AssetWorks FMAX.
+    Authentication is HTTP Basic (username and password). The request body is empty.
+  version: "1.0.0"
+schemes:
+  - https
+host: wiscdev.assetworks.hosting/fmax
+basePath: /
+paths:
+  /actioncode:
+    post:
+      summary: Execute FMAX action code
+      description: |
+        Triggers an action code using the provided transaction number (`tranxNum`).
+        The request body is empty; all inputs are via query string and headers.
+      security:
+        - basicAuth: []
+      parameters:
+        - in: query
+          name: tranxNum
+          required: true
+          type: string
+          description: Transaction number used to identify the action, e.g., `1040`.
+      responses:
+        "200":
+          description: Successful execution
+          schema:
+            type: object
+            additionalProperties: true
+          examples:
+            application/json:
+              status: "success"
+              message: "Action executed"
+              tranxNum: "1040"
+            text/plain: OK
+        "400":
+          description: Bad request (e.g., missing or invalid tranxNum)
+        "401":
+          description: Unauthorized (invalid or missing Basic credentials)
+        "403":
+          description: Forbidden
+        "404":
+          description: Not found
+        "500":
+          description: Server error
+securityDefinitions:
+  basicAuth:
+    type: basic
